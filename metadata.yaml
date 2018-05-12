@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '24905'
     url: http://www.gutenberg.org/2009/agents/24905
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/24311#The-Preacher-and-His-ModelsThe-Yale-Lectures-on-Preaching-1891
 gutenberg_issued: '2008-01-15'
 gutenberg_type: Text
 identifiers:
