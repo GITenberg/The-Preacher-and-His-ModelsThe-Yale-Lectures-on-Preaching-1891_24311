@@ -1,0 +1,28 @@
+_repo: The-Preacher-and-His-ModelsThe-Yale-Lectures-on-Preaching-1891_24311
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Stalker, James
+    birthdate: 1848
+    deathdate: 1927
+    gutenberg_agent_id: '24905'
+    url: http://www.gutenberg.org/2009/agents/24905
+description: ''
+gutenberg_issued: '2008-01-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24311'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Preaching'
+- !lcc 'BV'
+title: 'The Preacher and His Models
+
+  The Yale Lectures on Preaching 1891'
+url: http://www.gutenberg.org/ebooks/24311
